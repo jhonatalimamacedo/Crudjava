@@ -1,13 +1,13 @@
-package com.jhonata.usuarioapi;
+package com.jhonata.CrudJava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UsuarioApiApplication {
+public class CrudJavaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UsuarioApiApplication.class, args);
+		SpringApplication.run(CrudJavaApplication.class, args);
 	}
 
 }

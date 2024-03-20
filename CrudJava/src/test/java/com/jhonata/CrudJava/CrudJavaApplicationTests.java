@@ -1,10 +1,10 @@
-package com.jhonata.usuarioapi;
+package com.jhonata.CrudJava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UsuarioApiApplicationTests {
+class CrudJavaApplicationTests {
 
 	@Test
 	void contextLoads() {
